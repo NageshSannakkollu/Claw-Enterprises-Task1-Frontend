@@ -1,0 +1,8 @@
+.todos-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.todos-list-heading {
+    font-weight: 600;
+}

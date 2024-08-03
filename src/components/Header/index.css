@@ -1,0 +1,22 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 0px 30px;
+}
+.claw-logo {
+    height: 100px;
+    width: 130px;
+}
+.logout-button {
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #099de7;
+    color: #fafafa;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 8px;
+}

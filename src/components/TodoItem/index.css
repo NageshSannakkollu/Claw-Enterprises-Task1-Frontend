@@ -1,0 +1,16 @@
+.todo-list-item {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.list-item {
+    width: 60px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.description {
+    width: 160px;
+}
+.status {
+    width: 80px;
+}
